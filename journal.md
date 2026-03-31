@@ -1,5 +1,5 @@
-# This is my journal
-Written by: ME!
+# This is our journal
+Written by: ME, and JOHN!
 
 ## Introduction
 
