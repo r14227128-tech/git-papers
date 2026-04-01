@@ -1,5 +1,6 @@
 # This is my journal
 Written by: ME!
+And all of my friends, who are great.
 
 ## Introduction
 
