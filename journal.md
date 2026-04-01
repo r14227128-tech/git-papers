@@ -1,5 +1,6 @@
 # This is my journal
 Written by: ME!
+My affiliation: McGill University
 
 ## Introduction
 
